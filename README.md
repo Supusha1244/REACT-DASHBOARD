@@ -1,12 +1,35 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📊 React Admin Dashboard
 
-Currently, two official plugins are available:
+A modern, customizable, and responsive **React Admin Dashboard** application. It includes light/dark themes, user-friendly navigation, interactive visualizations, Kanban task management, and an integrated calendar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📌 Dashboard Page
+![Dashboard](https://github.com/Supusha1244/REACT-DASHBOARD/blob/main/Screenshot%201.png)
+
+### 🗓️ Calendar Page
+![Calender](https://github.com/Supusha1244/REACT-DASHBOARD/blob/main/Screenshot%202.png)
+
+### 🗂 Kanban Board
+![Kanban](https://github.com/Supusha1244/REACT-DASHBOARD/blob/main/Screenshot%203.png)
+
+> 💡 _Ensure these image files are placed in your project under `/public/screenshots/` or the correct relative path depending on your build tool._
+
+---
+
+## 🌟 Features
+
+- 🎨 **Custom Themes** (Light & Dark)
+- 📊 **Dashboard with Key Metrics**
+- 🧮 **Interactive Charts**
+- 🗓 **Full-Featured Calendar**
+- 🗂 **Kanban Board with Drag-and-Drop**
+- 🔍 **Searchable and Sortable Tables**
+- 📱 **Mobile-Responsive UI**
+- 🔗 **Sidebar Navigation**
+
+---
+
