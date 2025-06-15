@@ -6,14 +6,23 @@ A **modern**, **responsive**, and **fully customizable** React Admin Dashboard a
 
 ## 🖼️ Screenshots
 
-### 📌 Dashboard Page  
+### 📌 Dashboard Page 
+- **Week-1**
 ![Dashboard](https://github.com/Supusha1244/REACT-DASHBOARD/blob/main/Screenshot%201.png)
+- **Week-2**
+- ![Dashboard](https://github.com/Supusha1244/REACT-DASHBOARD/blob/main/Screenshot%204.png)
 
-### 🗓️ Calendar Page  
+### 🗓️ Calendar Page 
+- **Week-1**
 ![Calendar](https://github.com/Supusha1244/REACT-DASHBOARD/blob/main/Screenshot%202.png)
+- **Week-2**
+- ![Calendar](https://github.com/Supusha1244/REACT-DASHBOARD/blob/main/Screenshot%205.png)
 
 ### 🗂 Kanban Board  
+- **Week-1**
 ![Kanban](https://github.com/Supusha1244/REACT-DASHBOARD/blob/main/Screenshot%203.png)
+- **Week-2**
+- ![Kanban](https://github.com/Supusha1244/REACT-DASHBOARD/blob/main/Screenshot%206.png)
 
 > 💡 _Ensure these images are correctly hosted on GitHub or placed in `/public/screenshots/` if working locally._
 
