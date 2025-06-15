@@ -1,0 +1,110 @@
+/* src/styles/themes.css */
+body.light-theme {
+  background-color: #f9f9f9;
+  color: #111;
+  padding: 20px;
+}
+
+body.dark-theme {
+  background-color: #1f2937;
+  color: #f9f9f9;
+  padding: 20px;
+}
+
+body.light-theme button {
+  background-color: #e5e7eb;
+  color: #111;
+}
+
+body.dark-theme button {
+  background-color: #374151;
+  color: #f9f9f9;
+}
+
+.nav-btn {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  margin-right: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* Light Theme Buttons */
+.light-theme button {
+  background-color: #374151;
+  color: white;
+}
+.light-theme button:hover {
+  background-color: #1f2937;
+}
+
+/* Dark Theme Buttons */
+.dark-theme button {
+  background-color: #d1d5db;
+  color: #111827;
+}
+.dark-theme button:hover {
+  background-color: #9ca3af;
+}
+
+
+/* Multicolor theme button */
+.multicolor-theme .nav-btn {
+  background: linear-gradient(to right, #6a0dad, #00bfff, #32cd32);
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.multicolor-theme .nav-btn:hover {
+  opacity: 0.9;
+}
+
+/* Theme Selector Dropdown */
+.theme-selector {
+  padding: 8px;
+  margin-left: auto;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+/* Common button styles */
+button {
+  padding: 0.6rem 1.4rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+/* Light Theme Button Styles */
+.light-theme button {
+  background-color: #374151;   /* dark gray */
+  color: white;
+}
+
+.light-theme button:hover {
+  background-color: #1f2937;   /* darker gray */
+}
+
+/* Dark Theme Button Styles */
+.dark-theme button {
+  background-color: #d1d5db;   /* light gray */
+  color: #111827;
+}
+
+.dark-theme button:hover {
+  background-color: #9ca3af;   /* medium gray */
+}
+
+/* Optional: Remove default focus outline */
+button:focus {
+  outline: 2px solid #2563eb;        /* custom blue border */
+  outline-offset: 3px;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.3);  /* soft glow */
+}
+
